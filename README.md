@@ -1,2 +1,2 @@
 # windows-log-analysis
-Windows Log Analysis is a concise project focused on optimizing Windows system security and performance
+Windows Log Analysis is a concise project focused on optimizing Windows system security and performance. By collecting and parsing event logs, the project leverages machine learning to detect anomalies, potential threats, and performance issues. Emphasizing user activity monitoring, it provides a streamlined interface for reporting and visualization, offering administrators actionable insights to fortify Windows environments.
